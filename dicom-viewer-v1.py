@@ -3,7 +3,7 @@ import matplotlib.pylab as plt
 import tkinter as tk
 from tkinter import filedialog as fdlg
 
-#proof of concept script that only works for one DICOM file selected
+#proof of concept script that only works for single DICOM file selected
 
 #opens file selector
 filePath = fdlg.askopenfilename(
