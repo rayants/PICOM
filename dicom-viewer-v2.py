@@ -3,6 +3,7 @@ import matplotlib.pylab as plt
 import tkinter as tk
 from tkinter import filedialog as fdlg
 
+#second iteration of the picom viewer, enabling multiple files to be read simultaneously
 
 #opens file selector
 filePath = fdlg.askopenfilenames(
