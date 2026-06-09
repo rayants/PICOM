@@ -8,6 +8,11 @@ Picom 0.6 features:
     -improved buttons
     -renamed some variables along the way
 
+Comments:
+    -code works but is very inefficient, which needs to be changed for upcoming planned features
+    -will need to build more classes
+    -planning on implementing window/level sliders
+
 '''
 import numpy as np #numpy isn't used yet
 import pydicom as picom
